@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi, I'm Derek!
 
-### More Information
+I'm a novice developer from Winnipeg, Manitoba, Canada. I am obsessed with the web and I want to do my part to contribute.
 
-A place to include any other types of information that you'd like to include about yourself.
+### Off-topic
+
+I'm a bookworm and I love talking about books with others.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[derek.kim1024@gmail.com](mailto:derek.kim1024@gmail.com)
